@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ODL",
+  "name": "Ore Dictionary Log",
+  "description": "A little mod for modder to get all the entries registered in ore dictionary of forge.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jiraiyah"],
+  "credits": "The Forge and FML guys, for making ore dictionary work!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
