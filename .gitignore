@@ -1,8 +1,9 @@
+
+run/
 .gradle/
-*.bat
 *.iml
 *.ipr
 *.iws
-run/
+*.bat
 out/
 *.stickyStorage
